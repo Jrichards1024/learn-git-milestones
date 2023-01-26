@@ -290,7 +290,7 @@ Item # | Description | Completed
 2d | Link to `commit #3 from CLI` |(https://github.com/Jrichards1024/learn-git-milestones/commit/9b1039d678168ae034872e4491174b06490a3979)
 2e | 3rd Favorite emoji |😛
 2f | Link to `commit #4 from VS Code` |(https://github.com/Jrichards1024/learn-git-milestones/commit/d8ec0a88ae0423df72a6e8fa44afb0cf33faa1cc)
-3a | Link to `my-awesome-project` github.com repo page |
+3a | Link to `my-awesome-project` github.com repo page | (https://github.com/Jrichards1024/my-awesome-project)
 4a | Link to `my-awesome-project` github.io "project site" |
 
 
