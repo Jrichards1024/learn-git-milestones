@@ -287,7 +287,7 @@ Item # | Description | Completed
 2a | 2nd Favorite emoji |😌
 2b | Link to `commit #2 from Github Desktop` |[commit #2 from Github.com](https://github.com/Jrichards1024/learn-git-milestones/commit/9b1039d678168ae034872e4491174b06490a3979)
 2c | Full path to your working directory | /Users/jorichards/Desktop/Spring_2023/Radical_Software/learn-git-milestones
-2d | Link to `commit #3 from CLI` |
+2d | Link to `commit #3 from CLI` |(https://github.com/Jrichards1024/learn-git-milestones/commit/9b1039d678168ae034872e4491174b06490a3979)
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from VS Code` |
 3a | Link to `my-awesome-project` github.com repo page |
