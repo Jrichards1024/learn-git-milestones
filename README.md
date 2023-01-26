@@ -282,16 +282,16 @@ Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | 🥹
 1b | Link to `commit #1 from Github.com` |[commit #1 from Github.com](https://github.com/Jrichards1024/learn-git-milestones/commit/a0c85f2fb88f24bafa9620a830777796b7d4db14)
-1c | Link to markdown tables docs |(https://www.markdownguide.org/extended-syntax/)
+1c | Link to markdown tables docs |<https://www.markdownguide.org/extended-syntax/>
 1d | What does `log` do? |Show commit logs
 2a | 2nd Favorite emoji |😌
 2b | Link to `commit #2 from Github Desktop` |[commit #2 from Github.com](https://github.com/Jrichards1024/learn-git-milestones/commit/9b1039d678168ae034872e4491174b06490a3979)
 2c | Full path to your working directory | /Users/jorichards/Desktop/Spring_2023/Radical_Software/learn-git-milestones
-2d | Link to `commit #3 from CLI` |(https://github.com/Jrichards1024/learn-git-milestones/commit/9b1039d678168ae034872e4491174b06490a3979)
+2d | Link to `commit #3 from CLI` |<https://github.com/Jrichards1024/learn-git-milestones/commit/9b1039d678168ae034872e4491174b06490a3979>
 2e | 3rd Favorite emoji |😛
-2f | Link to `commit #4 from VS Code` |(https://github.com/Jrichards1024/learn-git-milestones/commit/d8ec0a88ae0423df72a6e8fa44afb0cf33faa1cc)
-3a | Link to `my-awesome-project` github.com repo page | (https://github.com/Jrichards1024/my-awesome-project)
-4a | Link to `my-awesome-project` github.io "project site" |https://jrichards1024.github.io/my-awesome-project/
+2f | Link to `commit #4 from VS Code` |<https://github.com/Jrichards1024/learn-git-milestones/commit/d8ec0a88ae0423df72a6e8fa44afb0cf33faa1cc>
+3a | Link to `my-awesome-project` github.com repo page | <https://github.com/Jrichards1024/my-awesome-project>
+4a | Link to `my-awesome-project` github.io "project site" |<https://jrichards1024.github.io/my-awesome-project/>
 
 
 
